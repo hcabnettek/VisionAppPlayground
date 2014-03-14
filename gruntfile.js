@@ -1,21 +1,41 @@
 module.exports = function(grunt) {
-  
+
+  grunt.loadNpmTasks('grunt-jscoverage'); 
+  grunt.loadNpmTasks('grunt-cafe-mocha');
+  grunt.loadNpmTasks('grunt-env');
+
   grunt.initConfig({
-    pkg: grunt.file.readJSON('package.json')
+    env: {
+        test: { NODE_ENV: 'TEST' },
+        coverage: { NODE_ENV: 'COVERAGE' }
+    },
+    cafemocha: {
+      test: {
+          src: 'test/*.js',
+          options: {
+              ui: 'bdd',
+              reporter: 'spec',
+          },
+      },
+      coverage: {
+         src: 'test/*.js',
+          options: {
+            ui: 'bdd',
+            reporter: 'html-cov',
+            coverage: {
+                output: 'coverage.html'
+            }
+          }
+      },
+    },
+    jscoverage: {
+      options: {
+        inputDirectory: 'lib',
+        outputDirectory: 'lib-cov'
+      }
+    }
   });
-
-  grunt.loadTasks('gruntbuild');
-
+  
   grunt.registerTask('test', [ 'env:test','cafemocha:test' ]);
-
-  grunt.registerTask('setup-dev',
-    'Prepare development environment',
-    ['jshint', 'test', 'clean:prod', 'ngtemplates:vision']);
-
-  grunt.registerTask('dev',
-    'Compile and start a dev webserver.',
-    ['setup-dev', 'watch']);
-
- 
   grunt.registerTask('coverage', [ 'env:coverage', 'jscoverage', 'cafemocha:coverage' ]);
 };
