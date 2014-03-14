@@ -1,0 +1,7 @@
+<ul id="projects-list"  class="nav nav-list">
+	<li ng-repeat="project in projects">
+		<a ui-sref="projects.detail({projectId: project._id})">{{project.name}}</a>
+		<button class="delete btn btn-mini btn-primary list-btn">del</button>
+		<button class="edit btn btn-mini btn-primary list-btn spacer ">edit</button>
+	</li>
+</ul>

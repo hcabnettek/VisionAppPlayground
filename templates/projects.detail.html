@@ -1,0 +1,16 @@
+<div>
+	<h2>{{project.name}}</h2>
+	<h3>{{project.user}}</h3>
+	<div>
+		<small>Created:&nbsp;</small>
+		<em>
+			<span ng-bind="project.created | amDateFormat:'dddd, MMMM Do YYYY, h:mm:ss a'"></span>
+		</em>
+	</div>
+	
+	<ul>
+		<li ng-repeat="repositories in project.repositories">
+			<a href="#">foo</a>
+		</li>
+	</ul>
+</div>

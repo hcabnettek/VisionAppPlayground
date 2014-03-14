@@ -1,0 +1,9 @@
+<ul id="repositories-list"  class="nav nav-list">
+	<li ng-repeat="repo in repos">
+		<label class="checkbox inline">
+			<input id={{repo.id}} type="checkbox" {{repo.enabled}} value="{{repo.name}}">
+			<h4 class="media-heading repoItem">{{repo.name}}</h4>
+			<small>{{repo.description}}</small>
+		</label>
+	</li>
+</ul>

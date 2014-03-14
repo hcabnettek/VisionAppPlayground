@@ -1,0 +1,33 @@
+module.exports = function(grunt){
+	grunt.config.set('less', {
+		
+		prototype: {
+			options: {
+				paths: ["less"]
+			},
+			files: {
+				"demo/css/maaui.css":"less/maaui.less"
+			}
+		},
+		
+		styleGuide: {
+			options: {
+				paths: ["less"]
+			},
+			files: {
+				"../maauiStyleGuide/WebContent/css/maaui.css":"less/maaui_styleguide.less"
+			}
+		},
+		
+		webcenter: {
+			options: {
+				paths: ["less"]
+			},
+			files: {
+				"../myAccountWCP/myAccount/public_html/oracle/webcenter/portalapp/shared/css/maaui.css":"less/maaui.less"
+			}
+		}
+	});
+	
+	grunt.loadNpmTasks('grunt-contrib-less');
+};
