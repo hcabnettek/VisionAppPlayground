@@ -3,7 +3,7 @@
 		"port": 3000
 	},
 	"logger" : {
-		"filename": "logs/run.log",
+		"filename": "logs/test.log.txt",
 		"level": "silly"
 	},
 	"mongo": {

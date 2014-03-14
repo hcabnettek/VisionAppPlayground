@@ -10,7 +10,7 @@ describe('vision heartbeat api', function(){
 				.expect(200, done);
 		});
 	});
-
+	/*
 	describe('when requesting resource /missing', function(){
 		it('should respond with 404', function(done){
 			request(app)
@@ -19,4 +19,5 @@ describe('vision heartbeat api', function(){
 				.expect(404, done);
 		});
 	});
+*/
 });
