@@ -6,7 +6,7 @@ describe('vision heartbeat api', function(){
 		it('should respond with 200', function(done){
 			request(app)
 				.get('/heartbeat')
-				.expect('Content-Type', 'application/json; charset=utf-8')
+				.expect('Content-Type', /json/)
 				.expect(200, done);
 		});
 	});
@@ -15,7 +15,7 @@ describe('vision heartbeat api', function(){
 		it('should respond with 404', function(done){
 			request(app)
 				.get('/missing')
-				.expect('Content-Type', 'application/json; charset=utf-8')
+				.expect('Content-Type', /json/)
 				.expect(404, done);
 		});
 	});

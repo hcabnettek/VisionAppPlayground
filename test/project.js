@@ -4,7 +4,7 @@ var app = require('../app'),
 	_ = require('underscore'),
 	mongoose = require('mongoose'),
 	login = require('./login'); 
-
+/*
 describe('Vision Project API', function(){
 	var id;
 
@@ -178,6 +178,5 @@ describe('Vision Project API', function(){
 	    });
 	});
 
-	
-	
-});
+		
+});*/
