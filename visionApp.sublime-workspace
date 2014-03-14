@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"$location",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"$state",
+				"$stateParams"
+			],
+			[
+				"C",
+				"Controller"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Pro",
+				"Project"
+			],
+			[
+				"re",
+				"requireDirectory"
+			],
+			[
+				"repo",
+				"repoItems"
+			],
+			[
+				"Git",
+				"GitHubRepo"
+			],
+			[
+				"GitHu",
+				"GitHubRepo"
+			],
+			[
+				"Po",
+				"ProjectSchema"
+			],
+			[
+				"Project",
+				"ProjectSchema"
+			],
+			[
+				"P",
+				"ProjectSchema"
+			],
+			[
+				"connection",
+				"connectionString"
+			],
+			[
+				"authe",
+				"authenticationFailed"
+			],
+			[
+				"init",
+				"initDB"
+			],
+			[
+				"p",
+				"privateKey"
+			],
+			[
+				"res",
+				"restify"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/routes.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/templates/projects.detail.html",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/src/requirejs/config.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/vision.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/lib/github/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/bootstrap.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/templates/repositories.list.html",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/views/index.html",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/lib/project/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/lib/models/index.js",
+		"/Users/ckettenbach/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ckettenbach/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/templates.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/templates/projects.list.html",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntbuild/contrib-ngtemplates.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/templates/projects.html",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntfile.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/package.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/vision.controllers.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/src/requirejs/config.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/bower.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/controllers/appController.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/controllers/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/.jshintrc",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntbuild/contrib-requirejs.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/controllers/module.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/src/.jshintrc",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/vision.css",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntbuild/contrib-jshint.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/angular-ui-router/Gruntfile.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/vision.directives.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/test/github.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/vision.services.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/test/.jshintrc",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/vision/vision.filters.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/.jshintrc",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntbuild/contrib-env.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntbuild/contrib-jscoverage.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntbuild/contrib-watch.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/templates/projects.hbs",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntbuild/contrib-copy.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntbuild/contrib-clean.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/gruntbuild/contrib-cafemocha.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/public/components/angular-ui-bootstrap/Gruntfile.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/lib/express/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/.bowerrc",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/templates/project-form.hbs",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/templates/repositories.hbs",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/templates/commits.hbs",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/templates/issues.hbs",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/test/home.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-3/lib/routes/home.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/project/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/express/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/test/github.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/routes/github.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/github/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/test/project.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/test/login.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/routes/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/routes/project.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/db/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/config/test.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/config/development.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/config/coverage.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/routes/heartbeat.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/middleware/id.js",
+		"/Users/ckettenbach/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/lib/models/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-2/config/default.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/gruntfile.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/coverage.html",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/lib/routes/heartbeat.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/lib/express/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/package.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/lib/logger/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/lib/configuration/index.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/config/test.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/config/development.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/config/default.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/config/coverage.json",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/logs/run.log",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/test/heartbeat.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/lib/middleware/notFound.js",
+		"/Users/ckettenbach/dev/node/vision/chapter-1/app.js",
+		"/Users/ckettenbach/jdeveloper/mywork/MyAngularPortalApplication/Gruntfile.js",
+		"/Users/ckettenbach/jdeveloper/mywork/MyAngularPortalApplication/gruntbuild/contrib-watch.js",
+		"/Users/ckettenbach/jdeveloper/mywork/MyAngularPortalApplication/gruntbuild/contrib-jshint.js",
+		"/Users/ckettenbach/.bash_profile",
+		"/Users/ckettenbach/dev/roostagram/server/database.js",
+		"/Users/ckettenbach/dev/roostagram/server/server.js",
+		"/Users/ckettenbach/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/ckettenbach/dev/node/ezscrumapi/server.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/lib/security.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/package.json",
+		"/Users/ckettenbach/dev/node/ezscrumapi/lib/mongo-proxy.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/config.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/initDB.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/lib/initDB.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/lib/mongo-strategy.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/lib/routes/admin.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/gruntFile.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/test/firsttest.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/libs/routes/admin.js",
+		"/Users/ckettenbach/dev/node/ezscrumapi/.env",
+		"/Users/ckettenbach/dev/node/ezscrumapi/Procfile",
+		"/Users/ckettenbach/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ckettenbach/dev/node/ezscrumapi/.gitignore",
+		"/Users/ckettenbach/dev/node/ezscrumapi/.gitattributes",
+		"/Users/ckettenbach/dev/node/ezscrumapi/cert/certificate.pem",
+		"/Users/ckettenbach/dev/node/ezscrumapi/cert/privatekey.pem",
+		"/Users/ckettenbach/dev/node/ezscrumapi/cert/certrequest.csr",
+		"/Users/ckettenbach/dev/node/ezscrumapi/app.js",
+		"/Volumes/USB/styleguideProto/package.json",
+		"/Volumes/USB/styleguideProto/bower.json",
+		"/Users/ckettenbach/Desktop/cool.html",
+		"/Users/ckettenbach/dev/node/Pattern-Primer-on-Node/source.html",
+		"/Volumes/MACROVAULT/Parabola.Web.Site.Www/Parabola.Web.Site.Www/Scripts/parabola.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"res",
+			"index",
+			");\n",
+			"console",
+			"npm",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}
